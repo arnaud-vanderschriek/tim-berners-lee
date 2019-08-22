@@ -4,5 +4,5 @@ Mission objective
 =================
 
 * Make a page on **Tim-Berners-Lee**
-* Understand the principles of **html** and **css*
+* Understand the principles of **html** and **css**
 * Present your page and code
